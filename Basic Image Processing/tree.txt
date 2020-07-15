@@ -5,7 +5,5 @@ D:.
 |   operasi_dasar.py
 |   test1.jpg
 |   tree.txt
-|   
-\---__pycache__
-        config.cpython-37.pyc
+
         
