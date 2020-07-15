@@ -1,0 +1,11 @@
+Folder PATH listing for volume DATA KERJA
+Volume serial number is E6E3-DA6D
+D:.
+|   config.py
+|   operasi_dasar.py
+|   test1.jpg
+|   tree.txt
+|   
+\---__pycache__
+        config.cpython-37.pyc
+        
